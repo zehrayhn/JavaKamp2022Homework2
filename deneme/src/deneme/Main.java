@@ -7,8 +7,7 @@ public class Main {
 		System.out.println("deneme");
 		System.out.println("deneme2");
 		System.out.println("deneme2");
-		System.out.println("deneme2");
-		System.out.println("denedhtgme");
+	
 
 	}
 
